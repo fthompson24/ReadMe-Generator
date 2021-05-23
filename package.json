@@ -1,0 +1,26 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Follow command line prompts to generate a README.md file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fthompson24/readme-generator.git"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Fraser Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fthompson24/readme-generator/issues"
+  },
+  "homepage": "https://github.com/fthompson24/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  }
+}
