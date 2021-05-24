@@ -24,7 +24,7 @@
 ![alt text](assets/images/screenshot.PNG)
 
 ### Video Walkthrough
-[![](https://youtu.be/ftpK2Ye9u0U"")
+[![](<iframe width="1904" height="810" src="https://www.youtube.com/embed/ftpK2Ye9u0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
 
 ## Contributors:
 #### Fraser Thompson
