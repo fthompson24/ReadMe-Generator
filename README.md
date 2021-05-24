@@ -17,7 +17,7 @@
 
   
 ## Installation:
-#### Clone the Repository -> In the root folder, enter 'node index.js' in the command line and answer prompts -> README-new.md is generated.
+#### Clone the Repository -> In the root folder, enter 'node index.js' in the command line and answer prompts -> README.md is generated.
 
 ## Usage:
 #### To generate a README.md file.
