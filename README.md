@@ -27,8 +27,8 @@
 #### Fraser Thompson
 
 ## License:
-#### More on the MIT
-https://choosealicense.com/licenses/undefined
+#### More on the MIT license:
+[MIT](https://opensource.org/licenses/MIT)
 
 ---
 

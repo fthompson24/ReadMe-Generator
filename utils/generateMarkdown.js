@@ -28,8 +28,8 @@ function generateMarkdown(data) {
 #### ${data.contributors}
 
 ## License:
-#### More on the ${data.license}
-https://choosealicense.com/licenses/${data.confirm}
+#### More on the ${data.license} license:
+[${data.license}](https://opensource.org/licenses/${data.license})
 
 ---
 
