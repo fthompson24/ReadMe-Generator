@@ -23,6 +23,9 @@
 #### To generate a README.md file.
 ![alt text](assets/images/screenshot.PNG)
 
+### Video Walkthrough
+[![](https://youtu.be/ftpK2Ye9u0U"")
+
 ## Contributors:
 #### Fraser Thompson
 
