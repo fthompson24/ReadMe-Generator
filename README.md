@@ -24,7 +24,7 @@
 ![alt text](assets/images/screenshot.PNG)
 
 ### Video Walkthrough
-https://www.youtube.com/embed/ftpK2Ye9u0U
+https://youtu.be/ftpK2Ye9u0U
 
 ## Contributors:
 #### Fraser Thompson
